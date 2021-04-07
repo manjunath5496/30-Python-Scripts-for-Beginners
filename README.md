@@ -7,9 +7,9 @@
 <strong>Solution: </strong>
 
 ```python
-# The following python script will print the text "Hello World" as output.
+# The following python script will print the text "Hello World!" as output.
 
-print("Hello World")
+print("Hello World!")
 ```
 ----------------------------------------
 ### **02. Join two strings:**
