@@ -186,7 +186,11 @@ for i in sys.argv:
 ### **12. Run one Python script from another:**
 
 ---------------------------------------
+```python
+#  Hello.py
 
+print("Hello World!")
+```
 
 ```python
 #  Executes the hello.py file in the interpreter
