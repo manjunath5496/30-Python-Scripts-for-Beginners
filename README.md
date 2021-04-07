@@ -360,3 +360,35 @@ for customer in customers:
 
 ```
 ----------------------------------------
+### **20. Add and search data in the set:**
+
+---------------------------------------
+
+
+```python
+
+
+# Define the number set
+numbers = {13, 10, 56, 18, 12, 44, 87}
+ 
+# Add a new data
+numbers.add(63)
+# Print the set values
+print(numbers)
+
+message = "Number is not found"
+
+# Take a number value for search
+search_number = int(input("Enter a number:"))
+# Search the number in the set
+for val in numbers:
+    if val == search_number:
+        message = "Number is found"
+        break
+
+print(message)
+
+
+
+```
+----------------------------------------
