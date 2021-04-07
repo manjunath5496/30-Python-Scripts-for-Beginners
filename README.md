@@ -392,3 +392,24 @@ print(message)
 
 ```
 ----------------------------------------
+### **21. Count items in the list:**
+
+---------------------------------------
+
+
+```python
+
+
+# Define the string
+string = 'Python Go JavaScript HTML CSS MYSQL Python'
+# Define the search string
+search = 'Python'
+# Store the count value
+count = string.count(search)
+# Print the formatted output
+print("%s appears %d times" % (search, count))
+
+
+
+```
+----------------------------------------
