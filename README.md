@@ -4,7 +4,6 @@
 
 ---------------------------------------
 
-<strong>Solution: </strong>
 
 ```python
 # The following python script will print the text "Hello World!" as output.
@@ -16,7 +15,6 @@ print("Hello World!")
 
 ---------------------------------------
 
-<strong>Solution: </strong>
 
 ```python
 # Two words "Programming" and "Languages" are joined and "ProgrammingLanguages" is printed as output.
@@ -32,7 +30,6 @@ print(z)
 
 ---------------------------------------
 
-<strong>Solution: </strong>
 
 ```python
 # Use of String Formatting
@@ -49,7 +46,6 @@ print("%5.2f" % y)
 
 ---------------------------------------
 
-<strong>Solution: </strong>
 
 ```python
 import math
@@ -74,7 +70,6 @@ print("%d to the power %d is %5.2f" % (a,n,b))
 
 ---------------------------------------
 
-<strong>Solution: </strong>
 
 ```python
 # Boolean value
