@@ -555,3 +555,29 @@ file_handler.close()
 
 ```
 ----------------------------------------
+### **27. Define class and method:**
+
+---------------------------------------
+
+
+```python
+
+
+# Define the class
+class Employee:
+    name = "Johnson"
+    # Define the method
+    def details(self):
+        print("Post: Associate")
+        print("Department: QC")
+        print("Salary: $6000")
+
+# Create the employee object    
+emp = Employee()
+# Print the class variable
+print("Name:",emp.name)
+# Call the class method
+emp.details()
+
+```
+----------------------------------------
