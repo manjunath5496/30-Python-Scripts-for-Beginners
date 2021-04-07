@@ -183,3 +183,15 @@ for i in sys.argv:
   print(i)
 ```
 ----------------------------------------
+### **12. Run one Python script from another:**
+
+---------------------------------------
+
+
+```python
+#  Executes the hello.py file in the interpreter
+
+import os
+os.system('hello.py')
+```
+----------------------------------------
