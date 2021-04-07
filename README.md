@@ -28,4 +28,20 @@ joined_string = string1 + string2
 print(joined_string)
 ```
 ----------------------------------------
+### **03. Format floating point in the string:**
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+# Use of String Formatting
+x = 462.75897
+print("{:5.2f}".format(x))
+
+# Use of String Interpolation
+y = 462.75897
+print("%5.2f" % y)
+```
+----------------------------------------
 
