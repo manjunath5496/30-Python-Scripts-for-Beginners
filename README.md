@@ -92,3 +92,19 @@ y = 3
 print(x < y)
 ```
 ----------------------------------------
+### **06. If else statement:**
+
+---------------------------------------
+
+
+```python
+# Assign a numeric value
+x = 35
+
+# Check the is more than 35 or not
+if (x >= 35):
+    print("You have passed")
+else:
+    print("You have not passed")
+```
+----------------------------------------
