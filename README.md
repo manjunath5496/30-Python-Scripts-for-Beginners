@@ -108,3 +108,21 @@ else:
     print("You have not passed")
 ```
 ----------------------------------------
+### **07. Using AND and OR operators:**
+
+---------------------------------------
+
+
+```python
+# Take practical marks
+x = float(input("Enter the Practical marks: "))
+# Take theory marks
+y = float(input("Enter the Theory marks: "))
+
+# Check the passing condition using AND and OR operator
+if (x >= 25 and y >= 45) or (x + y) >=70:
+    print("\nYou have passed")
+else:
+    print("\nYou have failed")
+```
+----------------------------------------
