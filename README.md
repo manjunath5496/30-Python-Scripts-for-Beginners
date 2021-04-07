@@ -149,3 +149,19 @@ ID = input("Enter the employee ID: ")
 print(employee_details(ID))
 ```
 ----------------------------------------
+### **09. While Loop:**
+
+---------------------------------------
+
+
+```python
+# Initialize counter
+counter = 1
+# Iterate the loop 9 times
+while counter < 10:
+    # Print the counter value
+    print ("%d" % counter)
+    # Increment the counter
+    counter = counter + 1
+```
+----------------------------------------
