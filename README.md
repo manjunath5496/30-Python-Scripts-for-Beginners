@@ -439,3 +439,28 @@ print("Area of the circle is",area(2))
 
 ```
 ----------------------------------------
+### **23. Use of throw and catch exception:**
+
+---------------------------------------
+
+
+```python
+
+
+# Try block
+try:
+    # Take a number
+    number = int(input("Enter a number: "))
+    if number % 2 == 0:
+        print("Number is even")
+    else:
+        print("Number is odd")
+
+# Exception block    
+except (ValueError):
+  # Print error message
+  print("Enter a numeric value")
+
+
+```
+----------------------------------------
