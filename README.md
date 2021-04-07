@@ -70,3 +70,30 @@ b = math.pow(a,n)
 print("%d to the power %d is %5.2f" % (a,n,b))
 ```
 ----------------------------------------
+### **Working with Boolean types:**
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+# Boolean value
+x = True
+print(x)
+
+# Number to Boolean
+number = 10
+print(bool(number))
+
+number = -5
+print(bool(number))
+
+number = 0
+print(bool(number))
+
+# Boolean from comparison operator
+x = 6
+y = 3
+print(x < y)
+```
+----------------------------------------
