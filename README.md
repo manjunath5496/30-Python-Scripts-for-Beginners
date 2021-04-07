@@ -1,6 +1,6 @@
 # 30 Python Scripts for Beginners
 
-# 01. Hello World
+### **01. Hello World:**
 
 ---------------------------------------
 
