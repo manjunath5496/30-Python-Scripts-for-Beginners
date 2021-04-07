@@ -581,3 +581,27 @@ emp.details()
 
 ```
 ----------------------------------------
+### **28. Use of range function:**
+
+---------------------------------------
+
+
+```python
+
+# range() with one parameter
+for val in range(7):
+    print(val, end='  ')
+print('\n')
+
+# range() with two parameter
+for val in range(7,16):
+    print(val, end='  ')
+print('\n')
+
+# range() with three parameter
+for val in range(0,4,1):
+    print(val, end='  ')
+
+
+```
+----------------------------------------
