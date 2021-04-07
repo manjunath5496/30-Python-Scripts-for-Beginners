@@ -1,1 +1,1 @@
-# 30-Python-Scripts-for-Beginners
+# 30 Python Scripts for Beginners
