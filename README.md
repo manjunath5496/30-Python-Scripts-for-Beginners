@@ -627,3 +627,24 @@ print(list(result))
 
 ```
 ----------------------------------------
+### **30. Use of filter function:**
+
+---------------------------------------
+
+
+```python
+
+# Define a list of participant
+participant = ['Ram', 'John', 'David', 'Krishna', 'Prasad']
+# Define the function to filters selected candidates
+def SelectedPerson(participant):
+    selected = ['John', 'Rahman', 'Ram']
+    if(participant in selected):
+        return True
+selectedList = filter(SelectedPerson, participant)
+print('The selected candidates are:')
+for candidate in selectedList:
+    print(candidate)
+
+```
+----------------------------------------
