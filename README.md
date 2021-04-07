@@ -22,10 +22,10 @@ print("Hello World!")
 # Two words "Programming" and "Languages" are joined and "ProgrammingLanguages" is printed as output.
 
 
-string1 = "Programming"
-string2 = "Languages"
-joined_string = string1 + string2
-print(joined_string)
+x = "Programming"
+y = "Languages"
+z = x + y
+print(z)
 ```
 ----------------------------------------
 ### **03. Format floating point in the string:**
