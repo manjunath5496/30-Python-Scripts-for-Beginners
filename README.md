@@ -223,3 +223,22 @@ else:
   print("You have to type string start with the capital letter")
 ```
 ----------------------------------------
+### **14. Use of getpass:**
+
+---------------------------------------
+
+
+```python
+# import getpass module
+import getpass
+
+# Take password from the user
+passwd = getpass.getpass('Password:')
+
+# Check the password
+if passwd == "python":
+    print("You are verified")
+else:
+    print("You are not verified")
+```
+----------------------------------------
