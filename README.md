@@ -261,3 +261,27 @@ custom_date = date(2026, 12, 26)
 print("The date is:",custom_date)
 ```
 ----------------------------------------
+### **16. Add and remove the item from a list:**
+
+---------------------------------------
+
+
+```python
+# Declare a fruit list
+fruits = ["Mango","Orange","Guava","Banana"]
+
+# Insert an item in the 2nd position
+fruits.insert(1, "Apple")
+
+# Displaying list after inserting
+print("The fruit list after insert:")
+print(fruits)
+ 
+# Remove an item
+fruits.remove("Banana")
+
+# Print the list after delete
+print("The fruit list after delete:")
+print(fruits)
+```
+----------------------------------------
