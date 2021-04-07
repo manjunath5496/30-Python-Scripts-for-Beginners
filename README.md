@@ -82,14 +82,14 @@ x = True
 print(x)
 
 # Number to Boolean
-number = 10
-print(bool(number))
+x = 10
+print(bool(x))
 
-number = -5
-print(bool(number))
+x = -5
+print(bool(x))
 
-number = 0
-print(bool(number))
+x = 0
+print(bool(x))
 
 # Boolean from comparison operator
 x = 6
