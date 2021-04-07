@@ -45,3 +45,28 @@ print("%5.2f" % y)
 ```
 ----------------------------------------
 
+### **04. Raise a number to a power:**
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+import math
+# Assign values to a and n
+a = 4
+n = 3
+
+# Method 1
+b = a ** n
+print("%d to the power %d is %d" % (a,n,b))
+
+# Method 2
+b = pow(a,n)
+print("%d to the power %d is %d" % (a,n,b))
+
+# Method 3
+b = math.pow(a,n)
+print("%d to the power %d is %5.2f" % (a,n,b))
+```
+----------------------------------------
